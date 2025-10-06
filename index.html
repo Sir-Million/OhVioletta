@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guía Oh Violeta! - Cargando...</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+    <header>
+        <h1>Oh Violeta</h1>
+        <p class="subtitle">Portafolio de Obra Teatral</p>
+    </header>
+
+    <nav>
+        <button class="nav-btn active" data-section="guia">Guía de Escritura</button>
+        <button class="nav-btn" data-section="escenas">Escenas</button>
+        <button id="toggleFooter" class="toggle-footer-btn" aria-label="Alternar notas">
+            <span class="toggle-icon">📝</span>
+        </button>
+    </nav>
+
+    <main>
+        <section id="guia" class="content-section active">
+            <h2>Guía de Escritura</h2>
+            <div class="content-container">
+                <!-- El contenido se cargará dinámicamente -->
+            </div>
+        </section>
+
+        <section id="escenas" class="content-section">
+            <h2>Escenas</h2>
+            <div class="scenes-grid">
+                <article class="scene-card">
+                    <h3>Escena 1</h3>
+                    <div class="content-container">
+                        <!-- El contenido se cargará dinámicamente -->
+                    </div>
+                </article>
+                <article class="scene-card">
+                    <h3>Escena 4 (Fragmento Descartado)</h3>
+                    <div class="content-container">
+                        <!-- El contenido se cargará dinámicamente -->
+                    </div>
+                </article>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="footer-content">
+            <div class="writing-stats">
+                <p class="stat-item">📝 Escenas Escritas: <span>2</span></p>
+                <p class="stat-item">📚 Guiones: <span>3</span></p>
+                <p class="stat-item">⏱️ Última actualización: <span>Julio 2025</span></p>
+            </div>
+            <div class="writing-notes">
+                <div class="notes-container">
+                    <p class="note active">"El teatro no es un espejo, es un lente de aumento" - Bertolt Brecht</p>
+                    <p class="note">"La comedia es tragedia más tiempo" - Carol Burnett</p>
+                    <p class="note">"El drama es la vida con las partes aburridas suprimidas" - Alfred Hitchcock</p>
+                    <p class="note">"En el teatro, la risa es el mejor termómetro" - Federico García Lorca</p>
+                    <p class="note">"El teatro es poesía que se sale del libro para hacerse humana" - Federico García Lorca</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

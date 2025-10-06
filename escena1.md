@@ -1,0 +1,119 @@
+# Escena 1 – "Despertar"
+*versión editada*
+
+## 🎬 Escenografía inicial
+
+> Habitación semi oscura con cama al centro, mesa de noche, lámpara tenue, cortinas opacas.
+> En los costados, escondidos, los elementos para baño, cocina, perchero y agenda.
+> La Multitud ya está en escena, inmóvil.
+
+---
+
+### [Inicio]
+
+*Oscuridad total. Se escucha una respiración lenta.*
+
+*Luz cenital suave sobre la cama. Violeta, enredada en sábanas. Suspira.*
+
+*La luz sube del ámbar al blanco cálido.*
+
+#### VOZ EN OFF (Violeta)
+
+> Me llamo Violeta Forger.  
+> Escritora de poemas que nadie entiende, comediante por accidente, y... orgullosa sobreviviente de unas cuantas catástrofes emocionales.
+
+> Hubo un tiempo en que tenía de todo: familia, pareja, trabajo, incluso una cafetera que no se atascaba.  
+> Ahora tengo otra cafetera... pero sin familia, sin pareja, y el trabajo a veces me paga con "gracias".  
+> Lo bueno es que la cafetera sigue fiel.
+
+> Dicen que la risa es un escudo. Yo la uso como casco, chaleco y ambulancia.  
+> No me funciona siempre, pero... al menos hago ruido.
+
+*(Pausa. Un suspiro.)*
+> Y aquí estoy: viva. Con calcetines iguales.  
+> Para mí, eso ya es un milagro.
+
+*Durante la voz en off:*  
+*La Multitud mueve cortinas, coloca espejo, vaso de agua, alfombra.*
+
+*Violeta se incorpora y se sienta al borde de la cama.*
+
+### [Rutina]
+
+#### VIOLETA 
+*(despertando, exagerando un estirón)*
+> ¡Buenos días, mundo cruel y café tibio!  
+> Hoy no lloro en la ducha... lloro en la cocina, como toda adulta funcional.
+
+*(MULTITUD sostiene espejo. Ella se cepilla los dientes con pasta que le pasan.)*
+
+#### VIOLETA 
+*(con la boca llena)*
+> Arte contemporáneo: higiene existencial en vivo.  
+> Si esto no es performance, ¿qué lo es?
+
+*(MULTITUD abre ropero. Ella toma una blusa, la descarta.)*
+
+#### VIOLETA
+> Esa me hace ver como directora de orquesta divorciada.  
+> *(escoge otra, se la prueba)*  
+> Perfecto: escritora sexy con traumas. El look que nunca pasa de moda.
+
+*(MULTITUD monta mesa con café y pan. Ella se sienta.)*
+
+#### VIOLETA
+> Antes odiaba desayunar sola. Ahora lo narro en voz alta y me río.  
+> *(Toma café, pausa, sonrisa débil.)*  
+> Ríe quien puede.
+
+*(MULTITUD le entrega una agenda. Ella hojea, como si hiciera stand-up.)*
+
+#### VIOLETA
+> "12:00 – Comer algo que no te haga llorar."  
+> Tostadas seguras.
+>
+> "13:00 – Recordar que estar sola no te hace menos valiosa."  
+> Ajá... por lo visto ayer estaba inspirada.
+>
+> "14:00 – Confirmar que sigues viva."  
+> *(mira al público, sonrisa)*  
+> ¡Check!  
+> *(pausa, susurra)*  
+> ...por ahora.
+
+*(Se ríe un poco más fuerte de lo normal. Silencio incómodo. MULTITUD desmonta mientras ella se pone una chaqueta. La habitación se apaga.)*
+
+### [Transición]
+
+*La cama se pliega, aparece mesa de restaurante con dos sillas. Luz más neutra.*
+*Violeta entra, tarareando con entusiasmo exagerado, como si se convenciera a sí misma.*
+
+#### VIOLETA 
+*(para sí, casi canturreando)*
+> Hoy todo saldrá bien. Hoy nada se rompe.
+
+*Se sienta. Frente a ella, su pareja. Breve silencio.*
+
+#### PAREJA
+> Violeta... necesito decirte algo.  
+> Esto ya no funciona.  
+> No eres tú. No soy yo. Es... esto.  
+> Nosotros. Ya no estamos.
+
+*(Pausa. Violeta sonríe sin procesar.)*
+
+#### VIOLETA
+> ¿En serio?  
+> *(se ríe)*  
+> ¿Con menú en mano? Qué elegante ruptura.
+
+*(Pausa. Fuerza la sonrisa, la mira al público.)*
+
+#### VIOLETA
+> Está bien.  
+> *(todo en ella se afloja, sonrisa débil)*  
+> Todo... está bien.
+
+*Se apaga la luz.*
+
+### FIN ESCENA 1.
